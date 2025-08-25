@@ -8,7 +8,7 @@ const countSelect = document.getElementById("count-select");
 const ratioSelect = document.getElementById("ratio-select");
 const gridGallery = document.querySelector(".gallery-grid");
 
-const API_KEY = "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"; //Hugging face API Key
+const API_KEY = "...."; //Get your hugging face API
 
 
 const examplePrompts = [
